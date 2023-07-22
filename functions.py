@@ -1,4 +1,4 @@
-FILEPATH = r'C:\Python\To-Do List App\todos.txt'
+FILEPATH = 'todos.txt'
 
 def get_todos(filepath=FILEPATH):
     """ Reads a text file and returns the list of to-do items """
